@@ -1,0 +1,29 @@
+{
+  "name": "kickstart-snippets",
+  "displayName": "Kickstart Snippets",
+  "description": "Kickstart Snippets",
+  "version": "1.0.2",
+  "publisher": "anaisdigital",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vestemeansorin91/kickstart-snippets"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "name": "kickstart",
+        "displayName": "kickstart",
+        "description": "kickstart snippet",
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}

@@ -1,23 +1,27 @@
+### Kickstart snippets
+
+![](https://s5.gifyu.com/images/kickstart-snippet524ff5aa3b18efe5.gif)
+
 #### Features
 
-| snippet                     | params                                                      |
-| --------------------------- | ----------------------------------------------------------- |
-| BACK-END                    |                                                             |
-| ks-be-model                 | \$1 Model                                                   |
-| ks-be-model-multilanguage   | \$1 Model                                                   |
-| ks-resolver                 | $1 Model, $2 model                                          |
-| ks-resolver-translatable    | $1 Model, $2 model                                          |
-| ks-be-service               | $1 Model, $2 model                                          |
-| ks-be-service-multilanguage | $1 Model, $2 model                                          |
-| ks-mapper                   | $1 Model, $2 model                                          |
-| ks-mapper-multilanguage     | $1 Model, $2 model                                          |
-|                             |                                                             |
-| FRONT-END                   |                                                             |
-| ks-fe-service               | $1 Model, $2 model                                          |
-| ks-fe-service-translatable  | $1 Model, $2 model                                          |
-| ks-list-store               | $1 Model, $2 model                                          |
-| ks-dialog-store             | $1 Model, $2 model                                          |
-| ks-table-config             | $1 Model, $2 model, $3 MODEL, $4 columnName, \$5 number(30) |
+| snippet                     | params                                                          |
+| --------------------------- | --------------------------------------------------------------- |
+| BACK-END                    |                                                                 |
+| ks-be-model                 | \$1 Model                                                       |
+| ks-be-model-multilanguage   | \$1 Model                                                       |
+| ks-resolver                 | $1 Model, $2 model                                              |
+| ks-resolver-translatable    | $1 Model, $2 model                                              |
+| ks-be-service               | $1 Model, $2 model                                              |
+| ks-be-service-multilanguage | $1 Model, $2 model                                              |
+| ks-mapper                   | $1 Model, $2 model                                              |
+| ks-mapper-multilanguage     | $1 Model, $2 model                                              |
+|                             |                                                                 |
+| FRONT-END                   |                                                                 |
+| ks-fe-service               | $1 Model, $2 model                                              |
+| ks-fe-service-translatable  | $1 Model, $2 model                                              |
+| ks-list-store               | $1 Model, $2 model                                              |
+| ks-dialog-store             | $1 Model, $2 model                                              |
+| ks-table-config             | $1 Model, $2 model, $3 MODEL, $4 ColumnName, \$5 ModalWidth(30) |
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Back-end
 
